@@ -1,0 +1,31 @@
+---
+date: 2023-02-25
+title: Keywords in Python 3
+linkTitle: Keywords in Python 3
+series: 
+    - Python Cheats
+categories:
+    - Python
+tags:
+    - python
+    - essential
+---
+
+# Keywords in Python 3 #
+
+> Keywords in Python 3.
+
+<!--more-->
+
+- Get help about keywords:
+
+```python
+help("keywords")
+```
+
+- Get keyword list:
+
+```python
+import keyword
+keyword.kwlist
+```
