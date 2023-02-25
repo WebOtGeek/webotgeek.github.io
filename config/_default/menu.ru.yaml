@@ -1,5 +1,5 @@
 main:
-  - name: Blog
+  - name: Блог
     identifier: blog
     params:
       icon: '<i class="fas fa-fw fa-blog text-warning"></i>'

@@ -1,5 +1,5 @@
 ---
-title: 归档
+title: Архивы
 menu:
   main:
     parent: blog

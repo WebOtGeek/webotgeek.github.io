@@ -1,10 +1,10 @@
 ---
-title: 专栏
+title: Топики
 menu:
   main:
     parent: blog
     weight: 2
     params:
       icon: <i class="fas fa-fw fa-columns"></i>
-      description: List of series.
+      description: Список топиков по темам.
 ---

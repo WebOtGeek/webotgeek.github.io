@@ -1,4 +1,4 @@
 ---
-title: Offline
+title: Оффлайн
 layout: offline
 ---

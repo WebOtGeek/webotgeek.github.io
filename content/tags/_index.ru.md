@@ -1,10 +1,10 @@
 ---
-title: 标签
+title: Тэги
 menu:
   main:
     parent: blog
     weight: 4
     params:
       icon: <i class="fas fa-fw fa-tags"></i>
-      description: List of tags.
+      description: Список тэгов.
 ---
