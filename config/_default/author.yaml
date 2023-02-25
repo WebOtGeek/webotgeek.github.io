@@ -1,8 +1,8 @@
 name: Alimektor
 # avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
-bio: ''
-company: BaseALT # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
-location: Obninsk # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
+bio: 'The Text Master'
+company: <a href='https://www.basealt.ru/'>BaseALT</a> # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+location: <a href='https://en.wikipedia.org/wiki/Obninsk'>Obninsk</a> # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
 # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
 params: {
   # layout: compact
