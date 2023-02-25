@@ -9,6 +9,8 @@ categories:
 tags:
     - python
     - essential
+authors:
+    - Alimektor
 ---
 
 # Keywords in Python 3 #
