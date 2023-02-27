@@ -1,7 +1,6 @@
 ---
 title: "SPICE Guest Tools on Windows Systems"
 date: 2023-02-27
-draft: true
 featured: false
 comment: true
 toc: true
