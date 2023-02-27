@@ -1,4 +1,4 @@
-import { faBlog, faBook, faFile, faNewspaper } from '@fortawesome/free-solid-svg-icons';
+import { faBlog, faBook, faFile, faNewspaper, faFire, faLinux, faFeather } from '@fortawesome/free-solid-svg-icons';
 // import { faAddressBook } from '@fortawesome/free-regular-svg-icons';
 // import { faAmazon, faGoogle } from '@fortawesome/free-brands-svg-icons';
 
