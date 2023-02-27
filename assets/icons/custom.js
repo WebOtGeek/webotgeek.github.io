@@ -3,7 +3,13 @@ import { faBlog, faBook, faFile, faNewspaper } from '@fortawesome/free-solid-svg
 // import { faAmazon, faGoogle } from '@fortawesome/free-brands-svg-icons';
 
 const icons = [
-    faBook, faBlog, faFile, faNewspaper,
+    faBook,
+    faBlog,
+    faFile,
+    faNewspaper,
+    faFire,
+    faLinux,
+    faFeather
     // faAddressBook,
     // faAmazon, faGoogle,
 ];
