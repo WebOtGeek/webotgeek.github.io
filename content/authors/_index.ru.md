@@ -1,6 +1,5 @@
 ---
 title: Авторы
-type: docs
 menu:
   main:
     parent: blog
