@@ -1,5 +1,6 @@
 ---
 title: Authors
+type: docs
 menu:
   main:
     parent: blog
