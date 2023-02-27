@@ -1,7 +1,7 @@
 ---
 date: 2023-02-25
-title: Article in Progress
-linkTitle: Article in Progress
+title: Classic RPM Package Build
+linkTitle: Classic RPM Package Build
 series: []
 categories: []
 tags: []

@@ -2,6 +2,7 @@
 date: 2023-02-25
 title: Keywords in Python 3
 linkTitle: Keywords in Python 3
+type: docs
 series: 
     - Python Cheats
 categories:
