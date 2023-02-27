@@ -26,7 +26,7 @@ lastmod: 2023-02-27
 
 В этой заметке рассказывается, как установить гостевой агент SPICE для Windows.
 
-<!- more-->
+<!--more-->
 
 1. Откройте Internet Explorer или любой другой браузер.
 2. Скачайте [этот файл](https://www.spice-space.org/download/windows/spice-guest-tools/spice-guest-tools-latest.exe).
