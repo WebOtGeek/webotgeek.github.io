@@ -13,7 +13,6 @@ tags:
     - bash
 authors:
     - Alimektor
-    - Profugus
 ---
 
 # Running Python Commands in the Shell #
