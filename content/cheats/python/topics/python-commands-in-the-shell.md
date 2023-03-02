@@ -14,7 +14,6 @@ tags:
 authors:
     - Alimektor
     - Profugus
-    - Nigger
 ---
 
 # Running Python Commands in the Shell #
